@@ -1,2 +1,2 @@
 # blackjack
-Simeple javascript blackjack game
+Simple javascript blackjack game
