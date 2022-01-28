@@ -1,2 +1,2 @@
 # blackjack
-Simple javascript blackjack game
+Simple javascript blackjack game from Scrimba
